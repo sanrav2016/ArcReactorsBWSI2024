@@ -1,3 +1,4 @@
+.gitignore
 *.pyc
 _pycache_
 venv
@@ -6,7 +7,6 @@ demo_face_detections.txt
 demo_video.avi
 LICENSE
 picameratest.py
-README.md
 requirements.txt
 square.mp4
 teaser.gif

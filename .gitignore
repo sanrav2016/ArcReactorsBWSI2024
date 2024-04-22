@@ -1,0 +1,12 @@
+*.pyc
+_pycache_
+venv
+venv2
+demo_face_detections.txt
+demo_video.avi
+LICENSE
+picameratest.py
+README.md
+requirements.txt
+square.mp4
+teaser.gif
